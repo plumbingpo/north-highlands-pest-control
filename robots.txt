@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://northhighlandspestcontrol.com/sitemap.xml
